@@ -1,5 +1,5 @@
 {
-    "name": "Listen_mysql",
+    "name": "listen_mysql",
     "description": "监听sql",
     "type": "library",
     "authors": [
