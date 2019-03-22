@@ -1,6 +1,7 @@
 {
-    "name": "listen_mysql",
-    "description": "监听sql",
+    "name": "listen_mysql/listen",
+    "description": "Used to listen for msyql execution logs",
+    "license": "MIT",
     "type": "library",
     "authors": [
         {
