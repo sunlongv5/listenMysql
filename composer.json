@@ -10,8 +10,10 @@
         }
     ],
     "require": {
-        "laravel/framework": "^5.1"
-    },"autoload": {
+        "php": ">=5.5.9",
+        "laravel/framework": "^5.2"
+    },
+    "autoload": {
     "psr-4": {
         "ListenMysql\\Listen\\":"src/"
     }
